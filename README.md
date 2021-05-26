@@ -5,5 +5,5 @@ PyGUI allows easy creation of applications using various widgets such as labels,
 
 Documentation coming soon!
 
-**An example of what can be acheieved with PyGUI**
+**An example of what can be acheieved with PyGUI:**
 ![image](https://user-images.githubusercontent.com/29596317/119646530-6d024280-be5e-11eb-9786-b05af0c791e9.png)
