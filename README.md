@@ -6,8 +6,7 @@ PyGUI allows easy creation of applications using various widgets such as labels,
 Documentation coming soon!
 
 **An example of what can be acheieved with PyGUI:**
-![image](https://user-images.githubusercontent.com/29596317/119646530-6d024280-be5e-11eb-9786-b05af0c791e9.png)
+![image](https://user-images.githubusercontent.com/29596317/119757714-81891e00-bee4-11eb-80d7-e750b812d9a6.png)
 
 **Comparison of the old/current GUI used in Radio V (left) vs the new PyGUI library (right)**
 ![image](https://user-images.githubusercontent.com/29596317/119757576-4850ae00-bee4-11eb-9589-e03cbd8c40b4.png)
-
