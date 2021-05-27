@@ -7,3 +7,6 @@ Documentation coming soon!
 
 **An example of what can be acheieved with PyGUI:**
 ![image](https://user-images.githubusercontent.com/29596317/119646530-6d024280-be5e-11eb-9786-b05af0c791e9.png)
+
+**Comparison of the old/current GUI used in Radio V (left) vs the new PyGUI library (right)**
+![image](https://user-images.githubusercontent.com/29596317/119757349-fc056e00-bee3-11eb-87de-fe34d7e248b5.png)
